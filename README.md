@@ -1,4 +1,4 @@
-Hi, I'm José Pablo 👋
+# Hi, I'm José Pablo 👋
 
 Robotics & Digital Systems Engineer based in Monterrey, Mexico. I work where software meets hardware: computer vision, ROS2, industrial automation, and IoT in real factories.
 
